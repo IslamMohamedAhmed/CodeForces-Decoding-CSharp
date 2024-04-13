@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\bin\Debug\net8.0\Decoding.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\bin\Debug\net8.0\Decoding.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\bin\Debug\net8.0\Decoding.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\bin\Debug\net8.0\Decoding.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\bin\Debug\net8.0\Decoding.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\Decoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\Decoding.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\Decoding.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\Decoding.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\Decoding.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\refint\Decoding.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\Decoding.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\Decoding.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Decoding\Decoding\obj\Debug\net8.0\ref\Decoding.dll
